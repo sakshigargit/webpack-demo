@@ -11,6 +11,6 @@ To build the module run
 
 > npm run start
 
-then click on this link [http://localhost:8080] to check the result in console.
+then [click here](http://localhost:8080) to check the result in console.
 
 

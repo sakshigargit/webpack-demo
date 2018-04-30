@@ -7,4 +7,10 @@ After clonning the project, Run
 
 This will install all the basic dependencies required for webpack.
 
-It contains the small module of calculation.
+To build the module run
+
+> npm run start
+
+then click on this link [http://localhost:8080] to check the result in console.
+
+
